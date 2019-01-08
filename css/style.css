@@ -1,0 +1,29 @@
+body {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #333;
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hindustantimes.com%2Frf%2Fimage_size_960x540%2FHT%2Fp2%2F2018%2F10%2F15%2FPictures%2F_0d193ca4-d07a-11e8-b4cf-7c02492d3b0a.jpg&imgrefurl=https%3A%2F%2Fwww.hindustantimes.com%2Fhollywood%2Fdetailed-avengers-4-trailer-description-leaked-title-revealed-time-travel-teased%2Fstory-K6vDrhFjytavLAJ1im3uNO.html&docid=Trzebx0XytZGEM&tbnid=htartZab1BRu7M%3A&vet=10ahUKEwiE2fmoqLXfAhWKwVQKHe4NB_sQMwhsKAMwAw..i&w=960&h=540&bih=550&biw=1275&q=avengers&ved=0ahUKEwiE2fmoqLXfAhWKwVQKHe4NB_sQMwhsKAMwAw&iact=mrc&uact=8);
+    background-color: #cccccc;
+}
+.question {
+    font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
+.answers label {
+    display: block;
+}
+#submit {
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #279;
+    color: #fff;
+    border: 0px;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+#submit:hover {
+    background-color: #38a;
+}
